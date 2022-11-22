@@ -1,0 +1,41 @@
+.servicecontainer{
+    margin-left: 88px;
+    margin-top: 50px;
+    display: flex;
+    padding: 10px;
+}
+h1{
+    margin-left: 88px;
+    margin-top: 50px;
+    font-family: 'WireWyrmMedium';
+    font-size: 50px;
+    color:  #00e7ff;
+
+} 
+.uls{
+    margin-bottom: 100px;
+} 
+.uls li{
+    list-style: none;
+    font-family:'CriativaSansRegular';
+    font-size: 30px;
+    font-weight:bold;
+    color:#777777;
+}
+.connect{
+    font-family:'CriativaSansRegular';
+    color: #777777;
+    font-size: 20px;
+    margin-left: 88px;
+    
+}
+
+.connect img{
+    border-radius: 15px;
+    padding: 5px;
+}
+.images img{
+    padding: 5px;
+    border-radius:30px;
+}
+

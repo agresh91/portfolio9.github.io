@@ -1,0 +1,16 @@
+.resume{
+    margin-left: 88px;
+}
+.resume img{
+    height: 900px;
+    width: 700px;
+    margin-bottom: 50px;
+}
+h1{
+    margin-left: 88px;
+    margin-top: 50px;
+    font-family: 'WireWyrmMedium';
+    font-size: 50px;
+    color:  #00e7ff;
+
+}
